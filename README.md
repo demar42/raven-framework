@@ -21,7 +21,7 @@ Use your preferred method to download the files.
 * Bower: `bower install raven-framework`
 * NPM: `npm i raven-framework`
 * Git: `git clone https://github.com/thomashigginbotham/raven-framework.git`
-* Download a ZIP file
+* [Download a ZIP file](https://github.com/thomashigginbotham/raven-framework/archive/master.zip)
 
 Regardless of how you get the files, you’ll see a **demo.html** file. Open it in your browser and your code editor for more details on using Raven.
 
