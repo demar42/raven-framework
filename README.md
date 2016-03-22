@@ -8,7 +8,7 @@ Raven is a flexible, pluggable framework that is used to build everything from t
 * **Raven Forms** – Improve your form layouts and styles.
 * **Raven RequireJS** – Create AMD-compliant JavaScript modules and keep your code organized.
 * **Raven Unit Tests** – Write unit tests with Karma and Jasmine. Then automate them with Grunt or Gulp using the PhantomJS headless browser.
-* **Raven Code Collaboration** – Specify EditorConfig rules and common linting configurations for your team.
+* [Raven Code Collaboration](https://github.com/thomashigginbotham/raven-code-collab) – Specify EditorConfig rules and common linting configurations for your team.
 * **Raven High-DPI Sprites** – Use the Compass sprite map generator to create separate sprite maps for low- and high-DPI images.
 
 ...and more to come.
